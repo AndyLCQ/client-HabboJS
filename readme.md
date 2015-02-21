@@ -1,3 +1,3 @@
-A lire.
+##Présentation##
 
-TEST Je teste le GIT
+Le projet est en développement...
